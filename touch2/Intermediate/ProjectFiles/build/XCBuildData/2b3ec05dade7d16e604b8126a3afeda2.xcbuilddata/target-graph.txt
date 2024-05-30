@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'touch2' in project 'touch2'
+➜ Explicit dependency on target 'touch2_Build' in project 'touch2'
+Target 'touch2_Build' in project 'touch2' (no dependencies)

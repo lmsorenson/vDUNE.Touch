@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/demuth/Work/dune/vDUNE.Touch/touch2/Source/touch2/touch2.Build.cs",
+		"/Users/demuth/Work/dune/vDUNE.Touch/touch2/Source/touch2.Target.cs",
+		"/Users/demuth/Work/dune/vDUNE.Touch/touch2/Source/touch2Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

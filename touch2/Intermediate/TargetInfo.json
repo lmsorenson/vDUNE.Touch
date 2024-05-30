@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "touch2",
+			"Path": "/Users/demuth/Work/dune/vDUNE.Touch/touch2/Source/touch2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "touch2Editor",
+			"Path": "/Users/demuth/Work/dune/vDUNE.Touch/touch2/Source/touch2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
