@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Touch",
+			"Path": "/Users/lucassorenson/Code/vDUNE/vDUNE.Touch/Touch/Source/Touch.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TouchEditor",
+			"Path": "/Users/lucassorenson/Code/vDUNE/vDUNE.Touch/Touch/Source/TouchEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

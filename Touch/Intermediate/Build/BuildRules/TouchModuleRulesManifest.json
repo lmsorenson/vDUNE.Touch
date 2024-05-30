@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/lucassorenson/Code/vDUNE/vDUNE.Touch/Touch/Source/Touch/Touch.Build.cs",
+		"/Users/lucassorenson/Code/vDUNE/vDUNE.Touch/Touch/Source/Touch.Target.cs",
+		"/Users/lucassorenson/Code/vDUNE/vDUNE.Touch/Touch/Source/TouchEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
